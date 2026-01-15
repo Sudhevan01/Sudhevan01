@@ -62,5 +62,5 @@
 <h3 align="center">🐍 Contribution Snake</h3>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/sudhevan01/sudhevan01/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/sudhevan01/sudhevan01/output/github-contribution-grid-snake.svg" />
 </p>
