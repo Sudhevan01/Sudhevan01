@@ -14,25 +14,6 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudhevan01&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sudhevan01&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhevan01&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-
----
-
-
-
 <h3 align="center">🛠️ Languages and Tools</h3>
 
 <p align="center">
