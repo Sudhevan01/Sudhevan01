@@ -33,7 +33,7 @@
 <h3 align="center">🤝 Connect with Me</h3>
 
 <p align="center">
-<a href="https://linkedin.com/in/sudhevan-y" target="_blank">
+<a href="https://www.linkedin.com/in/sudhevanyuvaraj/" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40"/>
 </a>
 </p>
