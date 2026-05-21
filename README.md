@@ -8,7 +8,7 @@
 ---
 
 - 🌱 I’m currently pursuing **MCA at REVA University**
-- 💬 Ask me about **Python, Django, and Web Development**
+- 💬 Ask me about **Python, Django, and Web Development,Data Science**
 - 📫 Reach me at **sudhevany@gmail.com**
 - ⚡ Fun fact: **📚 Student by day, developer by night**
 
