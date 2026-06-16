@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sudhevan Y</h1>
-<h3 align="center">Aspiring Software Developer | Python & Django Enthusiast</h3>
+<h3 align="center">MCA Student | Developer| Data Science Enthusiast</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=sudhevan01&label=Profile%20views&color=0e75b6&style=flat" alt="sudhevan01" />
